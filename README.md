@@ -1,2 +1,4 @@
 # fib
-Fibonacci number algorithms
+
+Fibonacci number algorithms.
+
